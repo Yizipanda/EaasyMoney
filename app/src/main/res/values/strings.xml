@@ -1,0 +1,527 @@
+<resources>
+    <string name="app_name">EaasyMoney</string>
+    <string name="open">open</string>
+    <string name="header">EaasyMoney</string>
+    <string name="firstbody">For those looking to make money and crypto passively  in an easily accessible way. We can show you Apps, Games and Website that provide plenty of avenues to consider. </string>
+    <string name="benefit">You can choose how you want to earn money and crypto - by playing games, completing surveys, watching videos, shopping online and creating accounts. </string>
+    <string name="man">Do you need some extra cash but do not  have time or the ability to get a part time job and we can all agree that there are alot of fake money making apps out there. See how EassyMoney can make you earn additional income that makes your life easier     </string>
+    <string name="rep">Wherever you are, on the bus, at school, at work and at home. EaasyMoney has helped  you search for apps, games to play that earn you money or crypto and websites that pays and they all legal and legit. No more going through youtube trying to find ways to make money.</string>
+    <string name="rep2">Make money however you want. EaasyMoney provides different ways to earn money and crypto, like playing games, filling surveys, surfing the web and so much more. We are going to provide the best apps, games and website to make you earn with ease </string>
+    <string name="bod">There are so many ways to make money than ever before, both online and offline, but knowning where to invest your time can be tricky . But no need to worry EaasyMoney is here help, we have reviewed different apps, games and website to find the ones that are both legit and worth your time. Here are the best ways to make money.</string>
+    <string name="appbod">The rise of mobile application has allowed people to earn income on a near 24/7 basis. We have tested the most popular money making apps and crpto earning apps based on potential, ease to use, user ratings and company reputation. Clck the button below to see apps that earn money and crypto </string>
+    <string name="gambod"> Are you an avid gamer who spends much of your spare time gaming on your phone? If so, you are in luck, you can earn cash and crypto by playing mobile games. By just playing, you can earn gift cards or win cash or crypto. So what are you waiting for click the button below to start earning.  </string>
+    <string name="webbod">You dont have to always spend money to make money. If you want to launch a side gig to generate regular part time income, or a quick cash. There are website that can help you do that.  </string>
+    <string name="appmonpage">You can earn extra money directly from apps on your smartphone. After some thorough research, I have identified the top money making app in 2023, these apps are listed below :</string>
+    <string name="appcrptpage">We all know how valuable cryptocurrencies are, but it becomes a whole lot more interesting if you can earn free crypto. Buying crypto with your fiat currencies is a no-brainer. There are excellent apps for that and platform for that. Some also take a more technical route in mining crypto. But both of these are somewhat risky, as crypto prices can sway like anything with just an Elon Musk tweet. However, we are here to tell you about a way to earn crypto without spending anything.\nSo without any wait, I will start the list showing platform to earn free crypto.</string>
+    <string name="gamemonpage">Grab your mobile phone, download these games, and get paid for playing games. While you wont make enough money to quit your job and be a full time gamer, Start earning today with these play to win games</string>
+    <string name="gamecryptpag">Play to Earn crpyto games are not only fun but are also profitable. Unlike traditional video, where your achievements are in-game assets. But do know you can earn crypto for playing anything from pet centered games to 3D metaverse games and so many much more. So if you are curious to explore blockchain games that earn you some quick extra cash, here are some some list of the of the best  play to earn games and their fatures pros and cons. </string>
+    <string name="webmon">People are looking for ways to make money online, Besides requiring little or no startup cost. These websites help you to earn cash, and all you need is a internet connection and a computer or your mobile device. So we have compiled some list of website that help you earn that quick or at a long run, </string>
+    <string name="webcrypt4">The market is getting bigger so as the use of crypto currencies. So lets take a look at some of the ways to take advantage of these promotion and get free cryptos while they are still available</string>
+    <string name="hon">1.<u>Honeygain</u></string>
+    <string name="hon1">Start earning money by sharing your internet connection with data analysts. Honeygain allows you to reach unused internet full potential in the most convenient way!
+You can set up the app in less than 5 minutes and start making your money online. Simply install Honeygain on any device and connect it to the Internet. According to our estimator, by running Honeygain you will get $1 for every 10 GBs shared! Your earnings are unlimited!</string>
+    <string name="honbod1">With Honeygain, you can make money by simply sharing your Internet.</string>
+    <string name="honbod2"> ---PAYOUT RATE AND PAYMENT---</string>
+    <string name="honbod3">You will receive credits for every KB of data you share with the Honeygain network, and after collecting enough credits, you will be able to convert them to USD. Our current payout rate is $1 / 10GB, but take note that results may vary in each individuals case. Currently, we support payments via PayPal, but more options are coming soon! Stay tuned!</string>
+    <string name="honbod4">---WHERE DOES THE TRAFFIC COME FROM?---</string>
+    <string name="honbod5">From Fortune 500 companies and data scientists that we make sure are reliable - as the queen bee knows her bees, we know what every partner uses their network for.</string>
+    <string name="honbod6">---HOW IS THE INTERNET USED?---</string>
+    <string name="honbod7">Data scientists will use Honeygain users internet data to extract knowledge and insights to solve complex problems to find solutions for market research, ad verification, brand protection, pricing intelligence, travel fare aggregation, and SEO monitoring</string>
+    <string name="honbod8">--- IS IT SAFE?---</string>
+    <string name="honbod9">100%. Honeygain app connection is encrypted and perfectly safe for any device, guaranteeing private information is unreachable. So rest assured and make money from home without any security threats!</string>
+    <string name="fiek">2.<u>Field Agent</u></string>
+    <string name="fiek1">The app  is focused on finding opportunities for everyday people to make money. This is the app that pays you real cash. The app  send its agents all over the United States to gather information, take photos, and share their opinions. Join over one-million shoppers who have already joined!</string>
+    <string name="fiek2">Every day, people like you are using the Field Agent App to make money while they shop.</string>
+    <string name="fiek3">For over 10 years, the Field Agent App has provided a fast, flexible means for thousands of people to make real cash while doing what they are already doing—shopping in stores and online.
+Agents gather information for brands and retailers by taking photos, sharing opinions, and completing other tasks to ultimately help companies deliver the best products and experiences possible for people like you!</string>
+    <string name="fiek4">Here’s How It Works</string>
+    <string name="fiek5">1. Find a Job - Check often to find the right job for you; we offer audits, research, mystery shopping, product trials and more.
+
+\n2. Complete It - Once you’ve reserved a job, complete it within the time frame and make sure to follow instructions carefully.
+
+\n3. Get Paid - Once approved, your money is ready for you to deposit into your account. Save it or spend it! Our Agents have bought puppies, vacations, dance lessons and more with their earnings. What will you buy?</string>
+
+    <string name="fiek6">Things To Know</string>
+    <string name="fiek7">- Location Jobs generally pay between $3-$20
+
+\n- Complete "ticket jobs" to be qualified for paying jobs, and automatically enter a drawing to win a cash prize
+
+\n- Submissions must comply with all instructions to receive the cash payout
+
+\n- Field Agent does not receive payment for submissions it denies
+
+\n- Field Agent does not use information from submissions it denies
+
+\n- Jobs are usually “first come, first serve”. The more often you check the app, the better your chances of making money!</string>
+
+    <string name="foap">3.<u>Foap</u></string>
+    <string name="foap1">When a brand, agency or just anyone who finds your work outstanding purchases a video or photo from your online Foap portfolio, we share the profit with you 50/50.Submitting a video or picture to one of our Missions is an easy way to make your hobby even more profitable. Simply follow the Mission brief and upload one or multiple videos or pictures that reflect what kind of imagery the brand is after.</string>
+    <string name="foap2">TIME TO MAKE EXTRA MONEY WITH YOUR VIDEOS AND PHOTOS</string>
+    <string name="foap3">Turn your photos into money! Upload your photo collection and sell it to well known brands all over the world.
+
+
+\n\n1. Sell your photos through Foap Market at Foap.com
+
+
+\n\n2. Sell photos through Foap Missions to brands like Nivea, Bank of America, Volvo Group, Absolut Vodka, Air Aisa and Pepsi.
+
+
+\n\n3. Foap also distributes your content through partners, such as Getty Images, to help you sell even more of your photos!
+
+
+\n\n4. Create your own web portfolio for buyers to see your photos
+
+
+\n\n5. Explore beautiful photos from all around the world
+
+
+\n\n6. Get feedback on your photos from other Foapers
+
+
+\n\n7. Be part of an amazing and growing international community of photographers
+
+
+\n\n8. Upload photos straight from your phone
+
+
+\n\n9. Enjoy unlimited uploads
+
+
+\n\n10. Easy cashouts thanks to PayPal integration
+
+
+\n\n11. The best way to make money from what you love doing
+
+
+\n\n\n\nFoap is free! What is more, every time you sell a photo you get 50% of the commission. Every mission is rewarded with a prize starting with $50.
+
+</string>
+
+
+    <string name="swag">4.<u>Swagbucks</u></string>
+    <string name="swag1">Swagbucks is the place to get paid for your opinion. Take thousands of paid surveys for money on the go, wherever you are. Choose ideal survey length and reward amount from hundreds of available opportunities on your schedule. Make a difference with your opinion with paid surveys. Whether you are reviewing upcoming super bowl ads, sharing political beliefs, testing new products, being a mystery shopper or helping a company decide on a new slogan, your opinion is worth something on the Swagbucks App. Join Swagbucks Now for free and get a $10 Welcome Bonus**</string>
+    <string name="swag2">Shop online, Play video games, Search the web, Answer surveys and find great deals to earn your cash</string>
+    <string name="swag3"><b><b><b><b>TAKE PAID SURVEYS</b></b></b></b>
+\nSwagbucks is the place for paid surveys with easy, fun quizzes and great payouts on every survey completed. The Swagbucks App allows you to get paid for giving your opinion and make money on the go or at home with your phone. Complete paid surveys to earn rewards and get free gift cards. We will find the very best surveys for cash, and we add hundreds of new surveys daily, so you can always check in for more. Complete surveys on important topics, including politics, movies, TV shows, and shopping experiences
+
+       \n\n\n<b>GET CASH AND FREE GIFT CARDS</b>
+\nSwagbucks is the Money Making App for you with over 10,000 Free Gift Cards redeemed by our members every day! Redeem your Swagbucks rewards for PayPal cash or free gift cards at Amazon, Apple, Target, Mastercard, AmEx, Walmart, Starbucks, Uber, and more. Cash out your rewards for free gift card values starting at just $1 or save up and make money with $250 PayPal deposits. Use money towards groceries and everyday essentials or gifts for your favorite people. Shop online with your gift cards to earn even more cash back
+
+         \n\n\n<b><b>FIND MONEY MAKING DEALS</b> </b>
+ \nFind money making deals at the grocery store. Become a mystery shopper and get paid for your next grocery run with Swagbucks Grocery Receipts. Get paid cash for every grocery receipt you scan, plus get exclusive coupons and cash back in the app when you pick up everyday items at the grocery store. No more clipping grocery coupons, just snap a quick photo of your receipt to claim all coupons available
+
+    \n\n\n Discover money making deals when you try the latest apps and mobile games risk free. Swagbucks members get exclusive access to new products and services and huge rewards just for trying them. Get the best deals on new brand offers, discover great new apps, get free product samples, get huge rewards. Earn big rewards playing mobile games and reaching game play goals on your phone
+
+ \n\n\nScore money saving deals with cash back shopping at your favorite stores like Amazon, Walmart, Kohls, Macys, Booking.com, Hotels.com, The Home Depot, Lowes, Best Buy, and more. Shop at your favorite merchant through Swagbucks to get 1% to 80% Cash Back on every purchase by shopping in-store or online. Cash Back rate varies by merchant. See individual merchant page for full terms. Find all the latest sales, deals and promo codes from brands you enjoy, from a fancy room at the Hyatt to a new pair of Nikes to a pack of diapers at Walmart</string>
+
+
+    <string name="google">5.<u>Google Opinion Rewards</u></string>
+    <string name="goog1">Complete short surveys while standing in line, or waiting for a subway. Get rewarded with Google Play or PayPal credit for each one you complete. Topics include everything from opinion polls, to hotel reviews, to merchant satisfaction surveys. We’ll notify you when a survey is waiting.</string>
+    <string name="ggog2">It pays to share your opinion.Earn rewards for helping us improve our products and services</string>
+    <string name="goog3">You answer quick surveys and get paid up to $1 for each completed survey via your PayPal account. Surveys typically take less than 20 seconds.
+
+
+\n\nEasy to use: You will receive a notification when a short survey is waiting for you. These surveys include everything from opinion surveys to hotel and product reviews to location-based merchant satisfaction surveys.
+
+
+\n\nYour privacy: When you take a survey using Google Opinion Rewards, your answers are aggregated and shared with the market researcher who wrote the survey questions. Unless otherwise explicitly stated at the beginning of the survey, as is the case with location-based surveys, these answers are completely anonymous and not linked to any of your personally identifiable information. In exchange, we provide you, the user, money that is deposited into your linked PayPal account.</string>
+
+
+    <string name="Sweatcoin">1.<u>Sweatcoin</u></string>
+    <string name="sweat1">Sweatcoin is a new breed of step counter and activity tracker that converts your steps into a currency you can spend on gadgets, sports and fitness kit, services and experiences. Sweatcoin is an achievement tracker for a new generation. Spend sweatcoins earned on goods, services and experiences with our partner brands in the marketplace. Or if you are feeling generous, you can exchange them with your friends and family and even donate to amazing causes through Sweatcoin for good</string>
+    <string name="swaet2">A new global economy of wealth through health is coming.Get ready and start growing your wallet today.</string>
+    <string name="sweat3">Basically pays you to move and exercise, and it costs nothing to use.”
+
+\n\n- Men’s Journal
+
+
+\n“The easiest way to make some side cash by doing what you already do naturally — walking.”
+
+\n- TheNextWeb
+
+
+\n“New UK health app Sweatcoin launched in the Apple app store this week and has been an instant hit.”
+
+\n- Forbes
+
+
+\n“New Apple app launches in Britain that pays people to get fit”
+
+\n- Reuters
+
+
+\n“If ever you’ve needed an incentive to exercise, a new app could give you a much-needed boost to get active.”
+
+\n- Telegraph
+
+
+\n\nSweatcoin converts your steps into currency units called, as you might have guessed it, sweatcoins. You can then spend them on goods, services and experiences on our market place with our partners or exchange them with your friends and family for whatever you fancy. The fitter and healthier you become the wealthier you get. Movement has value!
+
+
+\nSweatcoin uses your HealthKit step history data to continuously improve our algorithms and provide you with better offers at the right time.</string>
+
+
+    <string name="pi1">2.<u>Pi Network</u></string>
+    <string name="pi2">Pi is a new digital currency. This app allows you to access and grow your Pi holdings and serves as wallet to host your digital assets. Pi is fairly distributed, eco-friendly and consumes minimal battery power.Start mining cryptocurrency today with our free, energy-light mobile app.</string>
+    <string name="pi3">The First Digital Currency You Can Mine On Your Phone.Start mining cryptocurrency today with our free, energy-light mobile app.</string>
+    <string name="pi4">Pi is a new digital currency. This app allows you to access and grow your Pi holdings and serves as wallet to host your digital assets. Pi is fairly distributed, eco-friendly and consumes minimal battery power.Start mining cryptocurrency today with our free, energy-light mobile app.</string>
+    <string name="pi6">With Pi Network you have a really simple interface that lets you mine coins easily. On the bar on the right hand side there is a button you can press to start the mining process. Bear in mind that the rate at which the coins are produced depends on the number of users registered with your affiliate code. \n\n As more and more people join your circle of trust, you will get more and more coins per second. At the top of the interface you can see the counter where you can see all the Pi coins you have mined. This makes it so you will never want to stop mining and, as time goes by, you will have hundreds of cryptocurrency coins in your wallet. \n\n Pi Network is getting closer to becoming a reality. At the minute the coin still does not have a market value but if it manages to in the future it would be best to have as many Pi currency at your disposal as possible.</string>
+    <string name="bee1">3.<u>Bee Network</u></string>
+    <string name="bee2">Bee Network is a blockchain-based innovative technology that aims to help users to earn Bees in a gamified experience. Users earn Bees through 3 roles: Pioneer, Ambassador and Verifier.
+To make Bee valuable, we strive to make Bee Network a real-life social network and to guide players to use Bee as a medium of exchange for goods and service in real life, with the long-term goal of listing Bee Network on an exchange.
+</string>
+
+    <string name="bee3">Earn a Bee in Game
+Future’s Not The Same</string>
+
+    <string name="bee4">There are 3 ways to earn Bee.
+\n\na. You can log in to Bee Network as a "Pioneer" and press the start button every day to activate the next 24H earning period, thus automatically earning the basic hourly income as a Pioneer for the next 24H session, which is 1.6 Bee per hour. The earning rate will be halved to 0.8 Bee/H when we reach 100k total users. Then halved to 0.4 Bee/H for 1 million users, halved to 0.2 Bee/H for 10 million users, and halved to 0.1 Bee/H for 10 million users. At 1 billion people, there will be no new supply of Bee and hourly revenue will be 0.
+\n\nb. You can introduce new members to your Pioneer Team as an "Introducer" and keep each other active by logging in once every 24 hours.
+\n\nC.  You will also be able to verify the identity of your earning team members with a simple keystroke as an "Ambassador" and you will earn additional hourly income as an Ambassador. </string>
+
+    <string name="coin1">4.<u>COIN</u></string>
+    <string name="coin2">Launched in early 2019, COIN is a mobile app enabling over 1 million users to earn digital assets for validating geospatial location data when traveling, commuting, jogging or moving about the real world while interacting with each other and enjoying in-app challenges.</string>
+    <string name="coin3">COIN app is one of the first of its kind: Most apps use your data for free, but COIN rewards you for it!</string>
+    <string name="coin4">Discover hidden rewards and reveal special opportunities, or socialize with other players! Redeem your COIN for exciting digital assets, gaming systems, tablets, and more
+    \n\nEarn COIN wherever you have GPS, Wifi, or Data connection. COIN App does not use much cell data, so you can still binge Netflix or crush some candy without capping your monthly data limit.
+    \n\nYou can redeem the COIN you earn for physical or digital items. This ranges from Bluetooth speakers, to digital currencies you can sell on exchanges. It is your COIN, you decide!
+    \n\nTons of apps and products collect location data, but almost none of them give you rewards in exchange for your data. Stop earning nothing for your valuable data. Use COIN and earn what you deserve.</string>
+    <string name="thun">5.<u>ThunderCore</u></string>
+    <string name="thun1">ThunderCore is revolutionizing how mobile entertainment apps create value for their users.Play to earn mechanics, paid participation, and user-owned identity and assets all help to create new economies, spaces and places for users to have fun and earn in the virtual world</string>
+    <string name="thun2">The mobile entertainment revolution begins on ThunderCore</string>
+    <string name="thun3">Since ThunderCore utilizes Proof-of-Stake, as a result all ThunderCore (TT) are premined. No new tokens can be mined as we do not mint new tokens as part of our consensus process. ThunderCore validators, called committee node members, earn rewards through gas/txn fees. People can take part in the ThunderCore consensus mechanism and participate in securing the ThunderCore blockchain upon its public launch.</string>
+
+    <string name="blackbin">1.<u>Blackout Bingo</u></string>
+    <string name="bb2">Welcome to Blackout Bingo a Brand New Bingo style game where you can win Real World Rewards and Cash Prizes (where available)! Daub Fast and use fun boosts to take the Bingo world by storm. Travel the world and play in amazing and exotic places</string>
+    <string name="bbh"><u><b>Blackout Bingo</b></u></string>
+    <string name="bba">Historically, Bingo was a game of chance. If you were lucky enough to have the right card, you would  win.
+
+\n\nNow with Blackout Bingo – you are in control of how much you can make with the best bingo app to win real money. This app is easy to use, everyone playing sees the same balls and cards. It takes concentration, speed, and strategy to become a bingo master.
+
+\n\nGames only take about 2 minutes to play, so players can pick up and play whenever they like. If you wanted to try it out, you can compete for cash prizes as well.
+
+\n\nWith over 5 Million players worldwide, Blackout Bingo is trending to become one of the hottest gaming apps available, and for good reason.Best for those looking for a fun way to play bingo and earn some side income. You can practice before playing actual cash games.
+        \n\n\n<b>Available on Apple iOS and Android</b></string>
+
+    <string name="bnb">Join me in competitive mobile gaming on Skillz! Use my promo code Yizipanda to get $1 Bonus Cash when you make your first deposit in ANY Skillz game. Check out the games here: </string>
+
+    <string name="solit">2.<u>Solitaire Cash</u></string>
+    <string name="solit2">Solitaire Cash™ is where a true classic and real cash prizes meet. Jump into a world of brain-teasing fun, and leave with your heart filled with nostalgia and pockets filled with rewards.</string>
+
+    <string name="strt"><u><b>Apps</b></u></string>
+    <string name="strt1"><u><b>Games</b></u></string>
+    <string name="strt2"><u><b>Website</b></u></string>
+    <string name="lit"><u><b>Solitaire Cash</b></u></string>
+    <string name="louy"> Solitaire Cash  is a free app where players can win real cash and prizes and earn rewards by playing an update on the classic solitaire game.
+
+\n\nSolitaire Cash is a true contender for one of the best games that pay real money by depositing money to be matched with other players within the same skill level.
+
+\n\nIn these real-money cash tournaments, you all will get the same deck – so the game is totally fair and skill-based.
+
+\n\nIf you love the feeling of buying lotto tickets or scratch-offs and dreaming about the money you stand to win — then you would seriously enjoy playing Solitaire Cash.
+
+\n\nThis app can let you win up to $83 per win in minutes, however, you will need to to deposit money in order to play.
+
+\n\nYou may seem hesitant at first but this gaming app has over 174k+ positive reviews in the App Store.
+
+    \n\n\nEarn up to $83 per win playing Solitaire. Free to play with multiple opportunities to win cash. Over 4 million downloads and counting and over $1.5+ million dollars in prizes so far.
+\n\n\n<b>Available on Apple iOS and Android</b>
+</string>
+
+
+    <string name="mist">3.<u>Mistplay</u></string>
+    <string name="mist2">Win prizes by playing Android games.With the app Mistplay you can win real prizes, such as Amazon gift cards, by simply downloading and playing games to your phone. That is literally all you have to do to earn cash: install and play games!</string>
+    <string name="mist3"><u><b>Mistplay</b></u></string>
+    <string name="mist4">Win prizes by playing Android games.With the app Mistplay you can win real prizes, such as Amazon gift cards, by simply downloading and playing games to your phone. That is literally all you have to do to earn cash: install and play games!
+    \n\nAs you install games and complete missions, you will earn units that you can then use to get all kinds of prizes. Some of the available prizes are used on the Mistplay app, such as awesome new avatars, but there is also Amazon or Visa gifts cards, among other great prizes.
+
+\n\nMistplay has an integrated chat feature that makes it possible to chat with any of your friends who also use the app. Not only that, but each user profile contains a unique code, and you will earn a few units if someone uses your code.
+
+\n\n\nMistplay is an interesting app that makes it possible to win real prizes by simply installing games on your device. Not only that, but unlike similar apps, there is no raffling in Mistplay. So long as you have enough units, you can buy whatever prize you want.You can make up to $50 per month if you play consistently week to week. Every week they launch new contests, where you can earn even more. The minimum payout amount is 1,500 Mistplay points, which amounts to a $5 gift card.
+
+
+
+    \n\n\n\nAvailable on only Android </string>
+
+    <string name="blitz">4.<u><b>21 Blitz</b></u></string>
+    <string name="bliy">21 Blitz is a mix of 21 and Solitaire. It’s a perfect way to practice your 21 skills, train your brain or just pass the time. Best for those who want to play against real people for free or switch to cash games when you’re ready to compete and win!</string>
+    <string name="bnbn"><u><b>21 Blitz</b></u></string>
+
+    <string name="blip"> 21 Blitz includes tournaments and head-to-head competitions with real cash prizes (where available).
+
+21 Blitz is a mix of 21 and Solitaire. It’s a perfect way to practice your 21 skills, train your brain or just pass the time.
+
+Play against real people for free then switch to cash games when you’re ready to compete and win.
+
+That’s where you win real money by playing this fun and addicting game app. If you deposit money you can enter cash tournaments against other players.
+
+Cashouts are through PayPal and I had no issues withdrawing or depositing money.
+
+
+
+        \n\n\n\n\n\n<b><u><i>Earning Potential</i></u></b>
+Your earning potential with Skillz games like 21 Blitz depends on how much you deposit. When you deposit and play for cash, you can withdraw your balance at any time by tapping Withdraw on the main menu. Any withdrawals up to the amount of your total deposits will be processed using the same form of payment as your deposit, either PayPal or credit card.
+
+Winnings exceeding your total deposit amount will be sent via paper check if you’re in the US, or PayPal if you are playing from another country.
+
+
+    \n\n\n<b>Available on Apple iOS and Android</b></string>
+
+
+    <string name="cubh">5.<u><b>Solitaire Cube</b></u></string>
+    <string name="cubh1"> Solitaire Cube is an addicting game where you can play solitaire on your phone and compete in cash tournaments if you deposit and wager money.
+
+This app includes tournaments and head-to-head competitions with real cash prizes (where available).
+
+It’s pretty easy to get started playing solitaire against other players in head-to-head battles. The game will match you up with other players who have the same level of skills in real-time.</string>
+
+
+    <string name="cvf">Solitaire Cube is an addicting game where you can play solitaire on your phone and compete in cash tournaments if you deposit and wager money.
+
+This app includes tournaments and head-to-head competitions with real cash prizes (where available).
+
+It’s pretty easy to get started playing solitaire against other players in head-to-head battles. The game will match you up with other players who have the same level of skills in real-time.
+
+
+    \n\n\nClassic Klondike Solitaire, built for your phone (or tablet). Smooth animations and fast touch controls make this the card game you want in your pocket.
+
+Klondike with a twist.
+\n\n• Classic klondike solitaire gameplay.
+\n\n• Points are awarded for every card uncovered and every card sent to the foundation.
+
+\n\n\n\nThink fast!
+\n\n• Each game has a time limit and bonus points are awarded for completing the game quicker.
+\n\n• Blazing fast performance on all devices. No seriously - we worked really hard on this.
+
+\n\n\n\nNo longer a solitary experience!
+\n\n• Games are played Head to Head for fun or for cold, hard cash (where allowed by law).
+\n\n• Both players solve the same deck and the player who finishes with the most points win.</string>
+
+
+    <string name="cvf2"><u><b>Solitaire Cube</b></u></string>
+
+
+    <string name="axi">1.<u><b>Axie Infinity</b></u></string>
+
+    <string name="axi2">Axie Infinity is a game about collecting, raising and battling cute fantasy creatures called Axie.
+
+Build unstoppable teams of Axies and conquer your enemies! Each Axie has unique strengths and weaknesses based on its genes. With billions of possible genetic combinations, the possibilities are truly infinite!
+
+Become a land baron and start your own Kingdom! Use land to farm rare resources, tokens, and attack dungeons!
+
+Earn AXS tokens by playing and use them to decide the future of the game</string>
+
+
+    <string name="axib"><u><b>Axie Infinity</b></u></string>
+
+
+    <string name="aiiv">
+        Axie Infinity is a game about collecting, raising and battling cute fantasy creatures called Axie.
+
+Build unstoppable teams of Axies and conquer your enemies! Each Axie has unique strengths and weaknesses based on its genes. With billions of possible genetic combinations, the possibilities are truly infinite!
+
+Become a land baron and start your own Kingdom! Use land to farm rare resources, tokens, and attack dungeons!
+
+Earn AXS tokens by playing and use them to decide the future of the game
+
+        \n\nAs one of the most popular play2earn games in the world, Axie Infinity, an Ethereum-based game, has changed many people lives worldwide. Today, players all around the world are playing this game, many losing their full-time income due to the pandemic, to earn money. The game focus lies in collecting, raising and battling monsters, either in PvE or PvP mode. Players earn rewards in the form of Axie Infinity Shards (AXS) and Smooth Love Potions (SLP). Both assets and monsters can be sold in Eth on the built-in marketplace in the Axie Infinity universe. The game requires players to have at least three Axies before they can participate in any battle. Those who are new to the game and do not have enough funds to buy Axies can opt for a scholarship in Axie Infinity.</string>
+
+
+    <string name="blinh">2.<b><u>Bling</u></b></string>
+    <string name="blinh2">Earn Free Cryptocurrency.
+Their mission is to empower as many people as possible to make money fun!
+
+they provide an entertainment platform that allows you to earn cryptocurrency by playing games you know and love.Their games are 100% free to download and play with no in-app purchases or deposits.</string>
+
+
+    <string name="blingv"><u><b>Bling</b></u></string>
+    <string name="Blings">Earn Free Cryptocurrency.
+Their mission is to empower as many people as possible to make money fun!
+
+They provide an entertainment platform that allows you to earn cryptocurrency by playing games you know and love. Their games are 100% free to download and play with no in-app purchases or deposits.
+
+
+    </string>
+
+    <string name="blino"><b><u>How do you earn it?</u></b></string>
+
+    <string name="blinu">By playing their games, you’ll be rewarded with Bling Points® that can be exchanged for cryptocurrency.
+
+\n\nThe amount you receive will be very small, but the more you play, the more you will earn!
+
+\n\nBling games allow players to earn real cryptocurrency for free and are devised as a non-gambling promotion. It is intended solely for entertainment purposes.</string>
+
+
+    <string name="binhd">Bling makes it easy to download, play, and earn cryptocurrency from the comfort of your home, or anywhere with internet access. Create your Bling account and start earning today!</string>
+
+
+    <string name="crop">3.<b><u>CropBytes: A Crypto Farm Game</u></b></string>
+    <string name="crop2">CropBytes is leading the crypto gaming revolution with a beautifully crafted game economy. CropBytes is a game of business based on real world farming. You can play the game to own assets and increase your farms output, or trade them with other players for returns in crypto.
+Use the power of crypto to play and earn in the virtual world. Get rewards in crypto as you play and build your skills.</string>
+
+
+    <string name="crop3"><u><b>CropBytes</b></u></string>
+
+    <string name="crop4">Build up your ＄CBX portfolio by owning assets, purchasing and selling them with other players in the game market, collecting NFTs, and earning crypto. 💵
+
+\n\nStart out with a free trial pack to learn the gameplay. As you gain experience with a business strategy, get crypto assets and grow your crypto wallet portfolio. 🤑
+
+\n\nStarter packs are a recommended buy for beginners. More advanced players can visit the game market to buy, sell and trade animals, and assets and produce with co-players.💹
+
+\n\nMine crypto assets and collect NFTs to play and earn $CBX.
+
+\n\nCropBytes is the first simulation genre crypto game and is going strong even today despite the bear market.
+
+       \n\n\n\n\n <b><u>Start a second life on the CropBytes metaverse now!</u> </b>
+___________________________________________
+
+\n\n• Start now and get free trial assets*
+\n• Grow a variety of crops and fruits to feed animals and sell to other players for crypto.
+\n• Feed animals and collect produce like milk, eggs, etc that can be sold for crypto.
+\n• Own utility assets and produce water and power
+\n• Convert extracts to CBX Tokens
+\n• Collect Superhero NFTs and use them to boost your farm output
+\n• Trade assets, animals, produce and CBX with co-players
+\n• Customize your farm and explore other players farms
+\n• Breed Superheroes to get awesome Superbabies
+\n• Own pro assets like Feed Mill to get regular income in crypto
+\n• Invite friends and earn rewards</string>
+
+
+    <string name="that">4.<b><u>Thetan Arena</u></b></string>
+    <string name="that2">Thetan Arena is a hybrid game that combines the Free-to-Play and Play-to-Earn models.
+You can receive free heroes to play casually. Better yet, acquire NFTs to start earning and maximize your profits Thetan Arena is an eSports game developed with the blockchain technology.
+    You can form a team with your friends to join battles and start earning with your skills..</string>
+
+
+    <string name="that3"><u><b>Thetan Arena</b></u></string>
+
+
+    <string name="that4">Thetan Arena  gameplay is designed to combine your personal and teamwork skills. Challenge yourself with various game modes: from classic MOBA tower rush to battle royale, coming with monthly updates and attractive rewards. Moreover, Thetan Arena introduces to you a brand-new play-to-earn system, allowing you to earn cryptocurrency by playing and trading Heroes on the marketplace.
+
+With Thetan Arena, Wolffun wants to bring you an all-ages-friendly free to play PvP MOBA mobile game, suitable for all types of gamers: from casual players who have little time to spend, to hardcore players who are looking for real challenges. It does not matter how much you invest in our game, there will be possibilities for you to compete against the others.
+Now, let your heroes strike!
+
+  \n\n\n\n\n    <b>  VARIOUS MODERN AND TRENDING GAME MODES</b>
+\n- Battle Royale: [solo/ duo] a brand-new mode to find the last man standing. Show your tactics and survive among a massive battle royale of 42 players/ 21 duos.
+\n- Deathmatch: a traditional PvP mode. Form a group of 4 players and battle with others.
+\n- Superstar: gathering the superstar quickly before the enemies do.
+\n- Tower Destroy: a classic MOBA mode. Rush toward your enemy nexus and bring it down.
+
+     \n\n\n\n\n    <b>A UNIQUE COMBAT STYLE, AIMING FOR A PERFECT BALANCE BETWEEN FUN AND DEPTH </b>
+\n- Equip your heroes with a wide selection of skills, aside from their signature abilities – creating more possible combinations and strategies to survive on the battlefield. They are categorized into 3 distinctively different skills sets:
+\n+ Effect skills: inflicting status on self, allies, and enemies.
+\n+ Damage skills: used to greatly increase the amount of damage in a short period.
+\n+Support skills: aiding you against attacks of enemies.
+\n- Matches last up to 5 minutes – ideal for on-the-go gaming as well as casual and mid-core players.
+\n- More than 30 heroes and still being released. Each hero comes with a signature ability (fury), assured to turn battles upside down when used at the right time.
+
+
+
+    \n\n\n     <u><b> MANY OTHER FEATURES</b> </u>
+\n- Free to play with free heroes and skills.
+\n- A brand-new play to earn system, allowing you to earn cryptocurrency.
+\n- Trade items and skins on the marketplace.
+\n- Monthly-updated contents.
+\n- Periodically special events: campaign, collection, leaderboard competition, war.
+\n- Get rewards for every achievement and milestone in your progression.
+\n- Ranking system with generous rewards for top tier players.
+\n- Pet system.
+\n- Leasing system.
+\n- Guild quests/ wars.
+\n- Tournament.
+\n- A healthy and active community.
+
+\n\nGather your friends and get ready for battles.
+\nGlorious victory awaits you all there, in the Thetan Arena.</string>
+
+
+    <string name="shoot">5.<b><u>ShootGun: NFT Battle Royale</u></b></string>
+    <string name="shoot2">Shootgun is a multiplayer mobile game. A shooter using the Play to Earn model. In our game, players can earn crypto tokens by fighting battles in large arenas and playing a variety of game modes. Including the Battle Royale mode.</string>
+    <string name="shoot3"><u><b>ShootGun </b></u></string>
+    <string name="shoot4">Shootgun is a multiplayer mobile game. A shooter using the Play to Earn model. In our game, players can earn crypto tokens by fighting battles in large arenas and playing a variety of game modes. Including the Battle Royale mode.
+
+\nThe developers of iDos Games took care of users who love the good old hardcore. What could be better than to outdo your opponent on the battlefield, right?
+
+\nAnd we will tell you what could be better. All of the above + play and earn. YES, you got it right. In our exciting game, there is an income that can be made permanent. To do this, you just need to click the "Download" button, register and start playing. Everything is very simple. We do not like to complicate things.
+
+\nThe in-game currencies in the game that our users will fight for are called IGT and GCI.
+
+\nCompete in fair fights, meet in battle with other players from all over the world. It is time to find out who is the real bad boy, or the real MVP.
+
+\n\nGet the best weapons and equipment in rewards, upgrade your fighters after each battle.
+
+\n- Get IGT and GGS cryptocurrency just by playing.
+\n- Upgrade your characters and weapons.
+\n- Play with your friends.
+\n- Get IGT cryptocurrency for inviting friends to the game.
+\n- Get daily rewards.
+
+     \n\n\n\n   <b>Modes currently available </b>
+
+\n- PVP. Match with your friend or random player from anywhere in the world and win his/her IGT B fair battle
+
+\n- Team Deathmatch. Gather 2 or 3 friends and fight against other teams
+
+\n- Workout. Play just for fun and improve your gaming skills
+
+\n- Royal battle. 30 players, 1 arena, 1 survivor. Winner takes all
+
+
+\n\n\n\nAlso coming soon:
+
+\n- Tournaments. Participate in global tournaments with your IGT to win the biggest prize in the game
+
+\n- Ranked matches. compete with other players to get a higher score and a place in the global leaderboard
+
+\n\n\nWe will also have unique NFT items. Each of which entails an incredibly rich history.
+\nAnd NFT skins. Agree, you are also worried about the fact that you are buying NFT, and it just sits idle.
+\nAnd we all have our uses. And again, everything is very simple. You buy a NFT skin and you can easily use it in our game. Play, have fun in a new shell, replenish your wallet, increase your earnings. And when you get tired of the NFT skin, you can sell it to other players.
+
+\n\nWell, we are gradually moving on to the interesting details of our game.
+\n\nHow often do you see a battle royale game that has a specific story arc? There are very few of them, mind you.
+\n\nBut this is another distinctive feature of our game. A whole team of game designers, scriptwriters came up with and developed an interesting and deep story that takes place in an incredible universe.
+\n\nWe are confident that our players will gradually get into this interesting world, and we will anxiously tell a fascinating story.
+
+        \n\n\n\n\n\n\n<b>SEE YOU ON THE BATTLEFIELD!</b>
+
+Make sure your wallet supports IGT tokens (BEP20).
+
+</string>
+
+
+    <string name="disc"><b><u>REMINDER</u></b>
+        \nThis app  is not promoting any product and/or
+Service mentioned in this app. This app is
+for informational purposes and I do not intend to give
+Advice on how to invest your money.
+Also in the app there may be things that are not true
+Or incorrect, so do not take seriously what you read in this app but always Do Your Own
+Research.
+        \n\n\n<u><b>NOT FINANCIAL ADVICE DISCLAIMER</b></u>
+The information contained on this App -
+EassyMoney and the resources available is not
+Intended as financial advice. I’m not a financial advisor
+and I’m not a substitute for financial advice from a
+Professional who is aware of the facts and
+Circumstances of your individual situation.
+Remember: do not invest what you can’t afford to lose
+And do your own research(DYOR) before investing in
+any project.
+</string>
+
+
+    <string name="tmm"><u><b>Meet The Team</b></u></string>
+    <string name="far">The Founder and CEO of YiziCorp.\n (App. Developer)</string>
+    <string name="yizi"><u><b>Yizi Corp</b></u></string>
+    <string name="miss"><u><b>Our Mission</b></u></string>
+    <string name="miss2">Yizi Corp. was founded in 2023 as a way to assist people with their financial goals.We show users ways in making some extra cash doing what you(users) love doing.For those looking to make money and crypto passively  in an easily accessible way. We can show you Apps, Games and Website that provide plenty of avenues to consider. As Yizi Corp. grows we are going to create more apps that gives latest update in technology, gaming and technology advancement
+    </string>
+
+   <string name="miss3"> <b><u>Working With Yizi Corp.?</u></b>
+    \nIf you are looking for information on advertising options or how we might be able to work together. Please contact us on our E-mail - <b><u>yizicorp@gmail.com</u></b>
+    </string>
+
+
+    <string name="tim">Head of Digital Media</string>
+</resources>

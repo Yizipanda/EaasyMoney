@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/menues"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gblue"
+    tools:context=".Homepage">
+
+
+
+
+
+<RelativeLayout
+    android:id="@+id/normalpage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+
+        <ImageButton
+            android:id="@+id/hh"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:background="@color/dblue"
+            android:src="@drawable/ic_baseline_menu_24" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:fontFamily="@font/aloo"
+            android:gravity="center"
+            android:text="@string/header"
+            android:textColor="@color/mblue"
+            android:textSize="25dp" />
+
+
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="2000dp"
+            android:layout_marginTop="20dp">
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Make Money Online."
+                android:textColor="@color/mblue"
+                android:textSize="33dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:padding="10dp"
+                android:text="@string/firstbody"
+                android:textColor="#0B1D49"
+                android:textStyle="bold" />
+
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="130dp"
+                android:background="#EAF0FB"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/klkl" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="400dp"
+                android:text="BENEFITS"
+                android:textColor="@color/mblue"
+                android:textSize="15sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="430dp"
+                android:text="Everything under your \ncontrol."
+                android:textColor="@color/mblue"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="500dp"
+                android:padding="10dp"
+                android:text="@string/benefit"
+                android:textColor="#0B1D49"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="600dp"
+                android:background="#EAF0FB"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/bebe" />
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="880dp"
+                android:gravity="center"
+                android:text="How can EaasyMoney   help you?"
+                android:textColor="@color/mblue"
+                android:textSize="33dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="960dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/man"
+                android:textColor="#0B1D49"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_marginTop="1100dp"
+                android:background="#EAF0FB"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/momny" />
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1400dp"
+                android:text="1. Find apps that earns you money and crypto"
+                android:textColor="@color/mblue"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1460dp"
+                android:padding="10dp"
+                android:text="@string/rep"
+                android:textColor="#0B1D49"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="1630dp"
+                android:text="2. Earn money with ease"
+                android:textColor="@color/mblue"
+                android:textSize="20dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1660dp"
+                android:padding="10dp"
+                android:text="@string/rep2"
+                android:textColor="#0B1D49"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1800dp"
+                android:gravity="center"
+                android:text="Start making money \n today."
+                android:textColor="@color/mblue"
+                android:textSize="33dp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:layout_marginTop="1880dp">
+
+                <Button
+                    android:id="@+id/startearn"
+                    android:layout_width="200dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/custombutton"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center"
+                    android:textStyle="bold"
+
+                    android:text="Start Earning Now"/>
+
+
+                <com.google.android.gms.ads.AdView
+                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/adViews"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_alignParentBottom="true"
+                    ads:adSize="BANNER"
+                    ads:adUnitId="ca-app-pub-4579217632942142/6972965200">
+                </com.google.android.gms.ads.AdView>
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="900dp"
+                android:layout_marginTop="2100dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/aloo"
+                    android:gravity="center"
+                    android:text="@string/header"
+                    android:textColor="@color/mblue"
+                    android:textSize="40sp"
+
+
+                    />
+
+
+                <!--   <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="FOLLOW US"
+                    android:textColor="@color/blue"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:layout_marginTop="10dp">
+
+
+                    <ImageView
+                        android:id="@+id/youtube"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/yout"
+
+                        android:layout_gravity="center"/>
+
+                    <ImageView
+                        android:id="@+id/insta"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/inst"
+                        android:layout_margin="10dp"
+                        android:layout_gravity="center"/>
+
+                    <ImageView
+                        android:id="@+id/twit"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:src="@drawable/twit"
+
+                        android:layout_gravity="center"/>
+
+
+
+
+                </LinearLayout> -->
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="@string/disc"
+                    android:textColor="#0B1D49"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/privacypolicy"
+                        android:layout_width="150sp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bh2"
+                        android:gravity="center"
+
+                        android:text="Privacy Policy"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/discl"
+                        android:layout_width="150sp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bh2"
+                        android:gravity="center"
+
+                        android:text="Disclaimer"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/tc"
+                        android:layout_width="150sp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bh2"
+                        android:gravity="center"
+
+                        android:text="Terms and Conditions"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/ula"
+                        android:layout_width="150sp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bh2"
+
+                        android:gravity="center"
+                        android:text="App EULA"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+
+                    <Button
+                        android:id="@+id/contactus"
+                        android:layout_width="150sp"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/bh2"
+                        android:gravity="center"
+                        android:text="Contact Us"
+                        android:textColor="@color/white"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+
+                <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/adView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    ads:adSize="BANNER"
+                    ads:adUnitId="ca-app-pub-4579217632942142/6001281427"></com.google.android.gms.ads.AdView>
+
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+    </ScrollView>
+
+
+
+</RelativeLayout>
+
+
+
+
+
+
+
+   <RelativeLayout
+        android:id="@+id/tryagain"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/ash">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="300dp"
+    android:layout_marginTop="60dp"
+    android:src="@drawable/nonint"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="No Internet Connection"
+            android:textSize="30dp"
+            android:layout_marginTop="380dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Check your internet connection\n and try again"
+            android:layout_marginTop="430dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="500dp"
+           android:gravity="center"
+          >
+
+        <Button
+            android:id="@+id/internet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@color/dblue"
+            android:text="Try Again"
+            android:textAllCaps="true" />
+
+
+       </LinearLayout>
+
+
+
+    </RelativeLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/sidf"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/header"
+        app:menu="@menu/side_menu" />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

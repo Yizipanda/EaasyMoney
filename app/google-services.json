@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305390211460",
+    "firebase_url": "https://yizicorp-default-rtdb.firebaseio.com",
+    "project_id": "yizicorp",
+    "storage_bucket": "yizicorp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305390211460:android:ed5e768b1d56b16f7a8dd1",
+        "android_client_info": {
+          "package_name": "com.yizicorp.eaasymoney_earncryptoandcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305390211460-eiliv9853ufj7msb3rhpbjro3pet7icm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSjHD3aJ39QWcLCjK94pPT-XHic1zVn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305390211460-eiliv9853ufj7msb3rhpbjro3pet7icm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

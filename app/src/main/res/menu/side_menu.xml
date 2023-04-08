@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view"
+    >
+
+
+
+
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:title="Apps">
+
+
+            <menu>
+
+                <item
+                    android:id="@+id/money"
+                    android:title="Earn Money" />
+
+                <item
+                    android:id="@+id/crypt"
+                    android:title="Earn Crypto" />
+
+
+            </menu>
+        </item>
+
+    </group>
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Games">
+
+            <menu>
+
+
+                <item
+                    android:id="@+id/moneyg"
+                    android:title="Earn Money" />
+
+                <item
+                    android:id="@+id/cryptg"
+                    android:title="Earn Crypto" />
+
+
+            </menu>
+        </item>
+
+
+    </group>
+
+  <!---  <group android:checkableBehavior="single">
+
+        <item android:title="Website">
+
+            <menu>
+
+
+                <item
+                    android:id="@+id/moneyw"
+                    android:title="Earn Money" />
+
+                <item
+                    android:id="@+id/cryptw"
+                    android:title="Earn Crypto" />
+
+
+            </menu>
+
+
+        </item>
+
+    </group> -->
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Coming Soon">
+
+            <menu>
+
+
+                <item
+
+                    android:id="@+id/air"
+                    android:title="Airdrop" />
+
+
+                <item
+
+                    android:id="@+id/nft"
+                    android:title="NFT" />
+
+            </menu>
+
+
+        </item>
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Yizi Corp.">
+            <menu>
+
+
+
+                <item
+
+                    android:id="@+id/sug"
+                    android:title="Suggestions" />
+
+
+                <item
+
+                    android:id="@+id/complain"
+                    android:title="File A Complaint" />
+
+
+        <item
+
+            android:id="@+id/abb"
+            android:title="About us" />
+
+
+        <item
+
+            android:id="@+id/ratapp"
+            android:title="Rate App" />
+                <item
+
+                    android:id="@+id/signout"
+                    android:title="Signout" />
+
+            </menu>
+        </item>
+
+    </group>
+
+
+
+
+
+
+
+</menu>

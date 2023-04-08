@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Start_earning_page"
+    android:background="@color/gblue">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/cover">
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Ways to make money"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:textColor="@color/mblue"/>
+
+        </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="500dp"
+                android:layout_marginTop="60dp">
+
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/bod"
+                  android:gravity="center"
+                  android:textColor="#0B1D49"
+                  android:textStyle="bold"
+                  android:textSize="16sp"
+                  android:padding="10dp"/>
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:layout_width="match_parent"
+                    android:layout_height="490dp"
+                    android:layout_marginTop="10dp"
+                    app:lottie_autoPlay="true"
+                    app:lottie_loop="true"
+                    app:lottie_rawRes="@raw/makemoney" />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="450dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/strt"
+                        android:textColor="@color/mblue"
+                        android:textSize="30sp"
+                        android:textStyle="italic" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:padding="10dp"
+                        android:gravity="center"
+                        android:text="@string/appbod"
+                        android:textColor="#0B1D49"
+                        android:textStyle="bold" />
+
+
+
+
+                    <Button
+                        android:id="@+id/butapp_money"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/butstrt"
+                        android:gravity="center"
+                        android:text="Earn Money" />
+
+                    <Button
+                        android:id="@+id/butapp_crypto"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/butstrt"
+                        android:gravity="center"
+                        android:text="Earn Crypto" />
+
+
+                    <com.google.android.gms.ads.AdView
+                        xmlns:ads="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/adViewst"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentBottom="true"
+                        ads:adSize="BANNER"
+                        ads:adUnitId="ca-app-pub-4579217632942142/9581433786">
+                    </com.google.android.gms.ads.AdView>
+                </LinearLayout>
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="800dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="@string/strt1"
+                        android:textColor="@color/mblue"
+                        android:textSize="30sp"
+                        android:textStyle="italic" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="0dp"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="@string/gambod"
+                        android:textColor="#0B1D49"
+                        android:textStyle="bold" />
+
+
+                    <Button
+                        android:id="@+id/butgame_money"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/butstrt"
+                        android:gravity="center"
+                        android:text="Earn Money" />
+
+                    <Button
+                        android:id="@+id/butgame_crypto"
+                        android:layout_width="150dp"
+                        android:layout_height="40dp"
+                        android:layout_margin="10dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/butstrt"
+                        android:gravity="center"
+                        android:text="Earn Crypto" />
+
+                    <com.google.android.gms.ads.AdView
+                        xmlns:ads="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/adViewta"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_alignParentBottom="true"
+                        ads:adSize="BANNER"
+                        ads:adUnitId="ca-app-pub-4579217632942142/9912606276">
+                    </com.google.android.gms.ads.AdView>
+                </LinearLayout>
+
+
+
+            </RelativeLayout>
+
+
+
+            <!---   <RelativeLayout
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="1120sp">
+
+
+                 <LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical"
+                      android:gravity="center">
+
+                  <TextView
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:text="@string/strt2"
+                      android:gravity="center"
+                      android:textColor="@color/mblue"
+                      android:textSize="30sp"
+                      android:textStyle="italic" />
+
+
+                      <TextView
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                         android:gravity="center"
+                          android:padding="10dp"
+                          android:text="@string/webbod"
+                          android:textColor="#0B1D49"
+                          android:textStyle="bold" />
+
+
+
+
+                      <Button
+                          android:id="@+id/butwebsite_money"
+                          android:layout_width="150dp"
+                          android:layout_height="40dp"
+                          android:layout_margin="10dp"
+                          android:layout_marginTop="15dp"
+                          android:background="@drawable/butstrt"
+                          android:gravity="center"
+                          android:text="Earn Money" />
+
+                      <Button
+                          android:id="@+id/butwebsite_crypto"
+                          android:layout_width="150dp"
+                          android:layout_height="40dp"
+                          android:layout_margin="10dp"
+                          android:layout_marginTop="15dp"
+                          android:background="@drawable/butstrt"
+                          android:gravity="center"
+                          android:text="Earn Crypto" />
+                  </LinearLayout>
+
+
+
+              </RelativeLayout> -->
+
+
+
+
+          </RelativeLayout>
+
+
+
+
+
+  </RelativeLayout>
+
+
+  </ScrollView>
+
+
+      <RelativeLayout
+          android:id="@+id/tryagain"
+          android:visibility="gone"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:background="@color/ash">
+          <ImageView
+              android:layout_width="wrap_content"
+              android:layout_height="300dp"
+              android:layout_marginTop="60dp"
+              android:src="@drawable/nonint"/>
+
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:textColor="@color/black"
+              android:text="No Internet Connection"
+              android:textSize="30dp"
+              android:layout_marginTop="380dp"
+              android:textStyle="bold"
+              android:gravity="center"/>
+
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:text="Check your internet connection\n and try again"
+              android:layout_marginTop="430dp"
+              android:textStyle="bold"
+              android:textColor="@color/black"
+              android:textSize="20sp"
+              android:gravity="center"/>
+
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="500dp"
+              android:gravity="center"
+              >
+
+              <Button
+                  android:id="@+id/internet"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:gravity="center"
+                  android:background="@drawable/intrt"
+                  android:text="Try Again"
+                  android:textAllCaps="true" />
+
+
+          </LinearLayout>
+
+
+
+      </RelativeLayout>
+
+  </RelativeLayout>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gblue"
+    tools:context=".Honeygainpage">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/gohom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:clickable="true"
+                    android:fontFamily="@font/aloo"
+                    android:gravity="center"
+                    android:text="@string/header"
+                    android:textColor="@color/mblue"
+                    android:textSize="25sp" />
+
+
+            </LinearLayout>
+
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="50dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="140dp"
+                    >
+
+                    <ImageView
+                        android:layout_width="120dp"
+                        android:layout_height="150dp"
+                        android:src="@drawable/honuuy" />
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Honeygain: Make Money Online "
+                            android:textColor="#0B1D49"
+                            android:textSize="25sp"
+                            android:textStyle="bold" />
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod1"
+                            android:textColor="@color/mblue"
+                            android:textStyle="bold"/>
+
+                    </LinearLayout>
+
+
+
+
+                </LinearLayout>
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="149dp">
+
+                    <TextView
+                        android:id="@+id/gyh"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="5dp"
+                        android:text="@string/hon1"
+                        android:textColor="#0B1D49"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="250dp"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:text="@string/honbod2"
+                            android:textColor="#0B1D49"
+                            android:textSize="20dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="1dp"
+                            android:padding="10dp"
+                            android:text="@string/honbod3"
+                            android:textColor="#0B1D49"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="435dp"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod4"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:textSize="20dp"
+                            android:gravity="center"
+                            android:textColor="#0B1D49"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod5"
+                            android:padding="10dp"
+                            android:textColor="#0B1D49"
+                            android:textStyle="bold"
+                            android:layout_marginTop="1dp"/>
+
+                    </LinearLayout>
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="580dp"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod6"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:textSize="20dp"
+                            android:gravity="center"
+                            android:textColor="#0B1D49"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod7"
+                            android:padding="10dp"
+                            android:textColor="#0B1D49"
+                            android:textStyle="bold"
+                            android:layout_marginTop="1dp"/>
+
+                    </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="730dp"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod8"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:textSize="20dp"
+                            android:gravity="center"
+                            android:textColor="#0B1D49"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/honbod9"
+                            android:padding="10dp"
+                            android:textColor="#0B1D49"
+                            android:textStyle="bold"
+                            android:layout_marginTop="1dp"/>
+
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="890dp">
+
+
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="300dp"
+                            android:src="@drawable/hbsr"/>
+
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="300dp"
+                            android:layout_marginTop="350dp"
+                            android:src="@drawable/hoyscr"/>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="700dp"
+                                android:orientation="vertical"
+                                android:gravity="center">
+
+                        <Button
+                            android:id="@+id/honeydown"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Download"
+                            android:gravity="center"
+                            android:background="@drawable/bh4"
+                            android:textColor="@color/white"
+                            />
+
+                                <com.google.android.gms.ads.AdView
+                                    xmlns:ads="http://schemas.android.com/apk/res-auto"
+                                    android:id="@+id/adViewhon"
+                                    android:layout_marginTop="20dp"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerHorizontal="true"
+                                    android:layout_alignParentBottom="true"
+                                    ads:adSize="BANNER"
+                                    ads:adUnitId="ca-app-pub-4579217632942142/5628093940">
+                                </com.google.android.gms.ads.AdView>
+
+                        </LinearLayout>
+                    </RelativeLayout>
+
+
+
+                </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+            </RelativeLayout>
+
+
+
+
+</ScrollView>
+
+
+
+        </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/tryagain"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/ash">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginTop="60dp"
+            android:src="@drawable/nonint"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="No Internet Connection"
+            android:textSize="30dp"
+            android:layout_marginTop="380dp"
+            android:textStyle="bold"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Check your internet connection\n and try again"
+            android:layout_marginTop="430dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:gravity="center"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="500dp"
+            android:gravity="center"
+            >
+
+            <Button
+                android:id="@+id/internet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/intrt"
+                android:text="Try Again"
+                android:textAllCaps="true"
+                />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textColor="#0B1D49"/>
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+</RelativeLayout>
